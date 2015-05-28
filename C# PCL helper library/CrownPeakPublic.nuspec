@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/Crownpeak/C-PCL-helper-library/blob/master/README.md</licenseUrl>
+    <projectUrl>https://github.com/Crownpeak/C-PCL-helper-library</projectUrl>
+    <iconUrl>https://avatars3.githubusercontent.com/u/9472007</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>$description$</description>
+    <copyright>Copyright 2015</copyright>
+  </metadata>
+</package>
