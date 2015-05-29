@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("CrownPeak AccessAPI PCL")]
-[assembly: AssemblyDescription("A public project to help users make requests to Crownpeaks Access API")]
+[assembly: AssemblyDescription("A public project to help users make requests to Crownpeak's Access API")]
 [assembly: AssemblyConfiguration("Release")]
 [assembly: AssemblyCompany("CrownPeak")]
 [assembly: AssemblyProduct("CrownPeakPublic.AccessAPI-PCL")]
