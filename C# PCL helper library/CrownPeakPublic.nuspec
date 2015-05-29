@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
+    <id>CrownPeakPublic.AccessAPI-PCL</id>
     <version>$version$</version>
-    <title>$title$</title>
+    <title>CrownPeak AccessAPI PCL</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
     <licenseUrl>https://github.com/Crownpeak/C-PCL-helper-library/blob/master/README.md</licenseUrl>
@@ -11,6 +11,6 @@
     <iconUrl>https://avatars3.githubusercontent.com/u/9472007</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>$description$</description>
-    <copyright>Copyright 2015</copyright>
+    <copyright>Copyright © CrownPeak 2014, 2015</copyright>
   </metadata>
 </package>
